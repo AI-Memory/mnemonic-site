@@ -15,7 +15,7 @@
 # limitations under the License.
 #
 
-FROM ubuntu:16.04 
+FROM ubuntu:xenial-20210416 
 MAINTAINER Wen Tong (puresky7@gmail.com)
 
 #set up your proxy below, refer to readme in the Docker folder
